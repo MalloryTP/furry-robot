@@ -1,6 +1,6 @@
 #  D H Lawerence
 
-_From_ _A_ _College_ _Window_
+### From A College Window
 
 The glimmer of the limes, sun-heavy, sleeping, 
 Goes trembling past me up the College wall. 
